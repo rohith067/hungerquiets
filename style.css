@@ -1,0 +1,91 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+html,body{
+    width: 100%;
+    height:100%;
+}
+#main{
+    width: 100%;
+    height:100%;
+}
+#section1{
+    width: 100%;
+    height: 100%;
+    background-image: url("https://img.freepik.com/free-photo/freshly-cooked-ramen-noodles-with-pork-vegetables-generative-ai_188544-12759.jpg");
+    background-size: cover;
+}
+#login{
+    display: flex;
+    justify-content: right;
+}
+#login p{
+    margin : 2% 2%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:medium;
+    font-weight: -50;
+}
+#login p:hover{
+    color: rgba(230, 111, 7, 0.982);
+}
+#title{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    font-size: 250%;
+}
+
+#search{
+    display: flex;
+    align-items: center;
+    justify-content:center
+}
+#search input{
+    width: 50%;
+    height: 60%;
+    font-size: 21px;
+    margin-top: 10%;
+    padding: 5px;
+}
+#search i{
+    padding: 7px;
+    color: black;
+    height: 25%;
+    font-size: 21px;
+    margin-top: 10%;
+    background-color: white;
+}
+#section2{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+#typeofservice{
+    height: 50%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border:1px linen rgb(133, 124, 124)
+}
+.orderonline{
+    padding-top: 10%;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin: 0%;
+}
+.orderonline img{
+    height: 50%;
+    width: 80%;
+    border-radius: 50px;
+    background-color: white;
+    margin: 0%;
+    
+}
+
