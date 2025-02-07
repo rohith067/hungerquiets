@@ -15,6 +15,7 @@ html,body{
     height: 100%;
     background-image: url("https://img.freepik.com/free-photo/freshly-cooked-ramen-noodles-with-pork-vegetables-generative-ai_188544-12759.jpg");
     background-size: cover;
+    margin: 0%;
 }
 #login{
     display: flex;
@@ -57,35 +58,5 @@ html,body{
     font-size: 21px;
     margin-top: 10%;
     background-color: white;
-}
-#section2{
-    height: 100%;
-    width: 100%;
-    background-color: white;
-}
-#typeofservice{
-    height: 50%;
-    width: 100%;
-    background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: white;
-    border:1px linen rgb(133, 124, 124)
-}
-.orderonline{
-    padding-top: 10%;
-    height: 100%;
-    width: 100%;
-    text-align: center;
-    margin: 0%;
-}
-.orderonline img{
-    height: 50%;
-    width: 80%;
-    border-radius: 50px;
-    background-color: white;
-    margin: 0%;
-    
 }
 
